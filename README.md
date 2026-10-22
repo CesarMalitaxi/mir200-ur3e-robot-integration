@@ -87,15 +87,17 @@ Laboratory setup showing the integration of the autonomous mobile robot with the
 ![MiR200 and UR3e integration](mir200-ur3e.jpg)
 
 
+
 ## Video Demonstration
 
-The following video shows selected footage from the physical
-laboratory demonstration, including autonomous navigation and
-robot coordination.
+The following video presents selected footage from the physical
+laboratory demonstration of the MiR200 and UR3e.
 
-**[Watch the MiR200 + UR3e Demonstration](mir200-ur3e-portfolio-demo.mp4)**
+[![Watch the MiR200 and UR3e demonstration](mir200-ur3e.jpg)](https://github.com/CesarMalitaxi/mir200-ur3e-robot-integration/raw/refs/heads/main/mir200-ur3e-portfolio-demo.mp4)
 
-*22-second edited demonstration. Recorded in a university robotics laboratory.*
+**[Watch or download the demonstration video](https://github.com/CesarMalitaxi/mir200-ur3e-robot-integration/raw/refs/heads/main/mir200-ur3e-portfolio-demo.mp4)**
+
+*22-second edited demonstration of the academic robotics project.*
 
 
 ## Project Limitations
